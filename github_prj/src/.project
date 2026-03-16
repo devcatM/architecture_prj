@@ -14,4 +14,26 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>drcicd_d.java</name>
+			<type>1</type>
+			<location>C:/Temp/인프라 자료_남산프로젝트/drcicd_d.java</location>
+		</link>
+		<link>
+			<name>drcicd_p.java</name>
+			<type>1</type>
+			<location>C:/Temp/인프라 자료_남산프로젝트/drcicd_p.java</location>
+		</link>
+		<link>
+			<name>drcicd_p2.java</name>
+			<type>1</type>
+			<location>C:/Temp/인프라 자료_남산프로젝트/drcicd_p2.java</location>
+		</link>
+		<link>
+			<name>drcicdhak_p.java</name>
+			<type>1</type>
+			<location>C:/Temp/인프라 자료_남산프로젝트/drcicdhak_p.java</location>
+		</link>
+	</linkedResources>
 </projectDescription>
